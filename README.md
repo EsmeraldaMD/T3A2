@@ -4,17 +4,26 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 ## Etapa 2.Especificaciones
 1. Entrada
+
    -d1
+   
    -d2
+   
    -h1
+   
    -h2
+   
    -opcional datos del usuario
    
+
 2.Proceso
+   
    -Diferencia de horas del dia posterior menos el dia anterior 
 
+
 3.Salida
-   Diferencia de lapzos de tiempo 
+   
+   -Diferencia de lapzos de tiempo 
    
 
 ## Etapa 3. Diseño de la solucion
