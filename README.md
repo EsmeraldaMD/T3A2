@@ -27,6 +27,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
    
 
 ## Etapa 3. Diseño de la solucion
+![](https://github.com/EsmeraldaMD/T3A2/blob/main/T3A2.png)
 
 ## Etapa 4. Desarrollo de la solución
-![](https://github.com/EsmeraldaMD/T3A2/blob/main/T3A2.png)
+
