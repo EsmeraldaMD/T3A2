@@ -4,30 +4,17 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 ## Etapa 2.Especificaciones
 1. Entrada
-
-   -d1
-   
-   -d2
-   
-   -h1
-   
-   -h2
-   
-   -opcional datos del usuario
-   
-
+   - d1
+   - d2
+   - h1
+   - h2
+   - opcional datos del usuario
 2.Proceso
-   
-   -Diferencia de horas del dia posterior menos el dia anterior 
-
-
+   - Diferencia de horas del dia posterior menos el dia anterior 
 3.Salida
-   
-   -Diferencia de lapzos de tiempo 
-   
-
+   - Diferencia de lapzos de tiempo 
 ## Etapa 3. Diseño de la solucion
 ![](https://github.com/EsmeraldaMD/T3A2/blob/main/T3A2.png)
 
 ## Etapa 4. Desarrollo de la solución
-
+https://github.com/EsmeraldaMD/T3A2/blob/main/T3A2.zip
